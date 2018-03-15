@@ -1,7 +1,8 @@
 # Writer-Identification
-The  project - The off-line writer identification whth deep neural network
+
+The  project - Semi-supervised Learning for improving Writer Identification and Retrieval
 ![](https://github.com/KiM55/Writer-Identification/blob/master/image1.png) 
-                        The model structure
+                   The model structure
 
 This main contributions:
 1. This pipeline for writer identification will improve the generalization of model.
@@ -20,7 +21,7 @@ This tage will segment the image to line
 
 # Second stage
 This stage will generate new image with DCGAN
-![](https://github.com/KiM55/Test/blob/master/d_loss.png)
-![](https://github.com/KiM55/Test/blob/master/g_loss.png)
-![](https://github.com/KiM55/Test/blob/master/d_loss_fake.png)
-![](https://github.com/KiM55/Test/blob/master/d_loss_real.png)
+![](https://github.com/KiM55/Writer-Identification/blob/master/image/d_loss.png)
+![](https://github.com/KiM55/Writer-Identification/blob/master/image/g_loss.png)
+![](https://github.com/KiM55/Writer-Identification/blob/master/image/d_loss_real.png)
+![](https://github.com/KiM55/Writer-Identification/blob/master/image/d_loss_fake.png)
