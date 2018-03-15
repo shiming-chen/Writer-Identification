@@ -1,6 +1,6 @@
 # Writer-Identification
 The  project - The off-line writer identification whth deep neural network
-![](https://github.com/KiM55/Test/blob/master/image1.png) 
+![]() 
                            The model structure
 
 This main contributions:
