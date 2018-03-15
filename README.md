@@ -16,9 +16,9 @@ This tage will segment the image to line
 
 
 ![](https://github.com/KiM55/Test/blob/master/origin%20image.png) 
-The original imege
+                   The original imege
 ![](https://github.com/KiM55/Test/blob/master/The%20segmented%20image.png)
-The segmented image       
+                   The segmented image       
 
 # 2. Second stage
 This stage will generate new image with DCGAN
@@ -50,4 +50,4 @@ Before train your network,your should configure the matconvnet to your matlab. T
 1. Run test/test_gallery_query_crazy.m to extract the features of images in the gallery and query set. They will store in a .mat file. Then you can use it to do evaluation.
 2. Evaluate feature on your dataset. Run evaluation/WI_evaluation_res_faster.m or evaluation/WI_evaluation_res_fast.m.
 
-![](https://github.com/KiM55/Writer-Identification/blob/master/image/drop0.5_F1114_net-train.pdf)
+![](https://github.com/KiM55/Writer-Identification/blob/master/train.png)
