@@ -1,7 +1,7 @@
 # Writer-Identification
 The  project - The off-line writer identification whth deep neural network
-![]() 
-                           The model structure
+![](https://github.com/KiM55/Writer-Identification/blob/master/image1.png) 
+                        The model structure
 
 This main contributions:
 1. This pipeline for writer identification will improve the generalization of model.
