@@ -6,11 +6,11 @@ This tage will segment the image to line
 
 ![](https://github.com/KiM55/Test/blob/master/origin%20image.png) 
 
-The origin image
+                          The origin image
 
 ![](https://github.com/KiM55/Test/blob/master/The%20segmented%20image.png)
 
-The segmented image
+                          The segmented image
 
 # Second stage
 This stage will generate new image with DCGAN
