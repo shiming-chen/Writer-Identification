@@ -44,7 +44,7 @@ Before train your network,your should configure the matconvnet to your matlab. T
 1. Add your dataset path into prepare_data.m and run it. Make sure the code outputs the right image path.
 2. Run train_id_net_res_market_new.m.
 3. Add your generated data path into prepare_data_gan.m and run it. It will add generated image path into the original image database.
-4. run train_id_net_res_market_lsro.m for training the proposed method.
+4. Run train_id_net_res_market_lsro.m for training the proposed method.
 
 #Testing
 1. Run test/test_gallery_query_crazy.m to extract the features of images in the gallery and query set. They will store in a .mat file. Then you can use it to do evaluation.
