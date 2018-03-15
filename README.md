@@ -12,7 +12,7 @@ This main contributions:
 
 
 # 1. First stage
-This tage will segment the image to line refer to the paper <A Statistical approach to line segmentation in handwritten documents>
+This tage will segment the image to line refer to the paper  'A Statistical approach to line segmentation in handwritten documents'
 
       
 
