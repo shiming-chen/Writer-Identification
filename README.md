@@ -13,12 +13,18 @@ This main contributions:
 
 # 1. First stage
 This tage will segment the image to line refer to the paper  'A Statistical approach to line segmentation in handwritten documents'
-![Historical_WI 59-IMG_MAX_1006290](https://github.com/KiM55/Writer-Identification/blob/master/image/Final_Lines.jpg)
+![](https://github.com/KiM55/Writer-Identification/blob/master/image/Final_Lines.jpg)
+                            Historical_WI/59-IMG_MAX_1006290.jpg
 ![](https://github.com/KiM55/Writer-Identification/blob/master/image/Line%200.jpg)
+                                 Line0.jpg
 ![](https://github.com/KiM55/Writer-Identification/blob/master/image/Line%203.jpg)
+                                 Line2.jpg
 ![](https://github.com/KiM55/Writer-Identification/blob/master/image/Line%204.jpg)
-![](https://github.com/KiM55/Writer-Identification/blob/master/image/Line%205.jpg)     
+                                 Line3.jpg
+![](https://github.com/KiM55/Writer-Identification/blob/master/image/Line%205.jpg)  
+                                 Line4.jpg
 ![](https://github.com/KiM55/Writer-Identification/blob/master/image/Line%206.jpg) 
+                                 Line5.jpg
 
 # 2. Second stage
 This stage will generate new image with DCGAN
