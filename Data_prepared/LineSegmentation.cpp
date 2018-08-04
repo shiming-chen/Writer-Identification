@@ -3,7 +3,7 @@
 LineSegmentation::LineSegmentation(string path_of_image) {
     this->image_path = path_of_image;
 
-    // Initialize Sieve ToDo @Samir55.
+
     sieve();
 }
 
@@ -132,7 +132,7 @@ LineSegmentation::connect_valleys(int i, Valley *current_valley, Line *line, int
     return connect_valleys(i - 1, v, line, valleys_min_abs_dist);
 }
 
-// ToDo @Samir55 Update when needed.
+
 void
 LineSegmentation::get_initial_lines() {
     int number_of_heights = 0, valleys_min_abs_dist = 0;
