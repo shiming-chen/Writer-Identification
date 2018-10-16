@@ -7,7 +7,7 @@
 ##  Main contributions:
 ### 1. This pipeline for writer identification will improve the generalization of model.
 ### 2. The generated unlabeled data will regularize the model. 
-### 3. This model will improve the mAP and hard-Top-n of your data. 
+### 3. This model will improve the mAP and hard Top-N of your data. 
 
 
 
