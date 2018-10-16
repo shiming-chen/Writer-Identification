@@ -1,6 +1,6 @@
 # Writer-Identification
 
-The  project - Semi-supervised Learning for improving Writer Identification and Retrieval
+
 ![](https://github.com/KiM55/Writer-Identification/blob/master/image1.png) 
                   
 
