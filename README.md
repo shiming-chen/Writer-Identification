@@ -1,7 +1,4 @@
-# Writer-Identification
 
-
-![](https://github.com/KiM55/Writer-Identification/blob/master/image1.png) 
                   
 
 ##  Main contributions:
